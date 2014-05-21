@@ -53,4 +53,4 @@ Simply add this require statement to your spec_helper:
 require 'spree_product_redirects/factories'
 ```
 
-Copyright (c) 2014 [name of extension creator], released under the New BSD License
+Copyright (c) 2014 [Davd Crees], released under the New BSD License
