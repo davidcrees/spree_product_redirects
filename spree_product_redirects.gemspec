@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_product_redirects'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.summary     = 'Spree extension to set up a 301 redirect when a product permalink is changed'
   s.description = 'Spree extension to record old permalinks for products when they are changed, and issues a 301 redirect if necessary'
   s.required_ruby_version = '>= 1.9.3'
